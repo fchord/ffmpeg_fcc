@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:cygwin:gcc 5.4.0 (GCC):--enable-shared --enable-static --disable-asm --enable-avresample
