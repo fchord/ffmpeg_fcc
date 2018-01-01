@@ -4,6 +4,7 @@ static const URLProtocol *url_protocols[] = {
     &ff_concat_protocol,
     &ff_crypto_protocol,
     &ff_data_protocol,
+    &ff_fcc_protocol,
     &ff_ffrtmphttp_protocol,
     &ff_file_protocol,
     &ff_ftp_protocol,

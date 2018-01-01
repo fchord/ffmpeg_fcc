@@ -546,6 +546,7 @@ OBJS-$(CONFIG_CRYPTO_PROTOCOL)           += crypto.o
 OBJS-$(CONFIG_DATA_PROTOCOL)             += data_uri.o
 OBJS-$(CONFIG_FFRTMPCRYPT_PROTOCOL)      += rtmpcrypt.o rtmpdh.o
 OBJS-$(CONFIG_FFRTMPHTTP_PROTOCOL)       += rtmphttp.o
+OBJS-$(CONFIG_FCC_PROTOCOL)              += fcc.o
 OBJS-$(CONFIG_FILE_PROTOCOL)             += file.o
 OBJS-$(CONFIG_FTP_PROTOCOL)              += ftp.o
 OBJS-$(CONFIG_GOPHER_PROTOCOL)           += gopher.o
